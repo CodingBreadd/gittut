@@ -1,3 +1,2 @@
 # gittut
-Messi
-Eu sunt **Șmecheră** *uau!*
+nu ai voie tati
