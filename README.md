@@ -1,3 +1,3 @@
 # gittut
 Messi
-Eu sunt **Șmecheră** *uau!*
+-Eu sunt **Șmecheră** *uau!*
